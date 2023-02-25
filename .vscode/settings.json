@@ -1,0 +1,12 @@
+{
+    "editor.formatOnSave": true,
+    "eslint.run": "onSave",
+    "eslint.format.enable": true,
+    "[scss]": { 
+        "editor.defaultFormatter": "esbenp.prettier-vscode" 
+    },
+    "prettier.tabWidth": 4,
+    "[markdown]": {
+    },
+    "frontMatter.dashboard.openOnStart": false
+}

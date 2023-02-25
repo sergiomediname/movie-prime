@@ -1,0 +1,24 @@
+// .card-hero {
+//     @apply relative min-h-[90vh] text-white flex items-center justify-center;
+//     &__backdrop {
+//         @apply absolute inset-0 w-full h-full z-10 before:absolute before:inset-0;
+//         &::before {
+//             background: rgb(8, 14, 38);
+//             background: linear-gradient(
+//                 120deg,
+//                 rgba(8, 14, 38, 0.9) 10%,
+//                 rgba(8, 14, 38, 0.7) 35%,
+//                 rgba(8, 14, 38, 0.35) 75%
+//             );
+//         }
+//         img {
+//             @apply object-cover w-full h-full;
+//         }
+//     }
+//     &-content {
+//         @apply relative z-20 w-full md:max-w-[50%];
+//     }
+//     &__title {
+//         @apply text-h1  font-bold;
+//     }
+// }

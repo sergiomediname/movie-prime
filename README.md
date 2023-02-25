@@ -1,42 +1,19 @@
-# Nuxt 3 Minimal Starter
+<div align="center">
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+# MoviePrime
 
-## Setup
+MoviePrime is the most popular source for movie content. Find ratings and videos of the latest movies.
 
-Make sure to install the dependencies:
+[Ver proyecto](https://pokedex-api-vue.netlify.app/)
 
-```bash
-# yarn
-yarn install
+</div>
 
-# npm
-npm install
+## Stack
 
-# pnpm
-pnpm install
-```
+-   Nuxt 3
+-   Tailwind CSS
+-   SASS
 
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
-npm run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-npm run build
-```
-
-Locally preview production build:
-
-```bash
-npm run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+<!-- https://mycolor.space/?hex=%23080E26&sub=1 -->
+<!-- https://colourcontrast.cc/080e26/343953 -->
+<!-- https://0to255.com/#080E26 -->

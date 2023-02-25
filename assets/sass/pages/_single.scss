@@ -1,0 +1,38 @@
+// .hero {
+//     @apply absolute -z-10 top-0 left-0 w-full min-h-[45rem] overflow-hidden bg-red-200 before:absolute before:inset-0 before:z-20;
+//     &:before {
+//         background: rgb(8, 14, 38);
+//         background: linear-gradient(
+//             0deg,
+//             rgba(8, 14, 38, 1) 10%,
+//             rgba(8, 14, 38, 0.85) 50%,
+//             rgba(8, 14, 38, 0.15) 100%
+//         );
+//     }
+//     &__backdrop {
+//         @apply absolute inset-0 z-10;
+//         img {
+//             @apply object-cover w-full h-full;
+//         }
+//     }
+// }
+
+// .movie {
+//     &-header {
+//         // @apply flex gap-14 flex-wrap md:flex-nowrap;
+//         @apply grid grid-cols-12 gap-8;
+//         &-col {
+//             &--poster {
+//                 // @apply w-7/12 sm:w-4/12 lg:w-3/12;
+//                 @apply col-span-6 md:col-span-4 lg:col-span-3;
+//             }
+//             &--info {
+//                 // @apply w-full md:w-8/12 lg:w-9/12;
+//                 @apply col-span-12 md:col-span-8 lg:col-span-9;
+//             }
+//         }
+//     }
+//     &__title {
+//         @apply font-bold mb-4;
+//     }
+// }

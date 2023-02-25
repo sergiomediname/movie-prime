@@ -1,0 +1,28 @@
+// .btn {
+//     @apply relative overflow-hidden inline-flex items-center gap-2 px-5 py-3 rounded-3xl font-medium border border-transparent transition-all duration-300;
+
+//     &::before {
+//         content: "";
+//         @apply absolute w-4 h-4 rounded-[50%] z-10 top-2/4 left-2/4 scale-0 -translate-x-2/4 -translate-y-2/4;
+//     }
+//     &:hover {
+//         &::before {
+//             @apply scale-[12];
+//             transition: transform 0.6s;
+//         }
+//     }
+
+//     &--main {
+//         @apply bg-second-300 text-main-300 border-second-300 before:bg-second-400 hover:bg-second-200 hover:border-second-400;
+//     }
+//     &--second {
+//         @apply bg-alt-300 text-main-300 border-alt-300;
+//     }
+//     &--outline {
+//         @apply border-light-300;
+//     }
+//     .i,
+//     span {
+//         @apply relative z-20;
+//     }
+// }

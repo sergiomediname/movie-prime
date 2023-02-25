@@ -1,0 +1,11 @@
+.i {
+    @apply fill-current block;
+    // stroke-width: 1px;
+    // stroke-linecap: round;
+    // stroke-linejoin: round;
+    width: var(--i-size, 1rem);
+    height: var(--i-size, 1rem);
+    &--md {
+        --i-size: 1.3rem;
+    }
+}

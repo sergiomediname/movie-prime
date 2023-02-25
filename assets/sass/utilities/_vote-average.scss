@@ -1,0 +1,26 @@
+// .vote-average {
+//     @apply relative w-12 h-12;
+//     &__percent {
+//         @apply absolute inset-0 leading-[3rem] text-center text-sm;
+//     }
+//     svg {
+//         @apply -rotate-90;
+//     }
+//     .base {
+//         @apply stroke-main-300;
+//     }
+//     &.success {
+//         --status-color: #16a34a;
+//     }
+//     &.warning {
+//         --status-color: #eab308;
+//     }
+//     &.danger {
+//         --status-color: #991b1b;
+//     }
+//     .percent {
+//         stroke: var(--status-color);
+//         stroke-dasharray: 10;
+//         stroke-dashoffset: calc(10 - var(--val));
+//     }
+// }
